@@ -4,4 +4,4 @@
  
  I’m currently focusing on Web and Visualization.
 
- I write HTML, CSS, React JS, Next Js
+ I write HTML, CSS, React JS, Mern Stack
